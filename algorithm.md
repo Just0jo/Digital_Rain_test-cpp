@@ -65,7 +65,7 @@ For each position (x,y):
     If the position is outside the circle, prints empty spaces.
     This creates a circular pattern of digits surrounded by spaces.
 
- ## Diamond Algorithm 
+## Diamond Algorithm 
 
   ![image](https://github.com/user-attachments/assets/63bca20a-a311-436a-a86f-8253677e5ddd)
 
