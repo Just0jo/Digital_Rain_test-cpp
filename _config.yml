@@ -3,7 +3,24 @@ title: Digital Rain Modern C++ Project Blog
 author:
   name: Michelle Lynch
   email: your-email@domain.com
-description: "A blog."
+description: "A modern C++ implementation of the digital rain effect"
 
 # Build settings
 remote_theme: jekyll/minima
+
+# Add this for proper URL handling
+baseurl: "/Digital_Rain_test-cpp"
+
+# Add these to enable navigation
+header_pages:
+  - index.md
+  - design.md
+  - algorithm.md
+  - problem-solving.md
+  - reflection.md
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    github: JustOjo
