@@ -1,1 +1,29 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+.navigation {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.navigation .btn {
+  margin: 0.5rem;
+}
+
+.main-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.gif-container {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.gif-container img {
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
