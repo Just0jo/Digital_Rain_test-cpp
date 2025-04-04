@@ -82,14 +82,11 @@ It loops through every position in the width x height grid.
 For each position (x,y):
 
     Calculate the distance from center using dx = x-centerX and dy = y-centerY.
-    
     Applies the circle equation: dx² + dy² ≤ radius².
-    
-    If the position is inside or on the circle, prints a colored random digit.
-    
+    If the position is inside or on the circle, prints a colored random digit
     If the position is outside the circle, prints empty spaces.
-    
     This creates a circular pattern of digits surrounded by spaces.
+    
 
 ## Diamond Algorithm 
 
