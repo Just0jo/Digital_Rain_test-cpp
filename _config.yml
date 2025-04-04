@@ -1,9 +1,7 @@
 # Site settings
 title: Digital Rain Modern C++ Project Blog
 author:
-  name: Michelle Lynch
-  email: your-email@domain.com
-description: "A modern C++ implementation of the digital rain effect"
+  name: Oluwamayowa Priase Ojofeitimi
 
 # Build settings
 remote_theme: jekyll/minima
