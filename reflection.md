@@ -3,7 +3,7 @@ layout: page
 title: Reflection
 ---
 ## Reflection
- ## Programming Concepts
+## Programming Concepts
 My DigitalRain project demonstrates an approach to creating visual effects in a console application.             
 Its architecture showcases several important programming concepts:
 
@@ -17,7 +17,7 @@ Mathematic Algorithms: The use of mathematical formulas and Algorithms are used 
 
 Non-Blocking Input: The keyboard input handling allows for responsive user interaction without halting the Digital Rain process.
 
- ## Aesthetic Considerations
+## Aesthetic Considerations
  
 The project creates an engaging visual experience through several design choices:
 
