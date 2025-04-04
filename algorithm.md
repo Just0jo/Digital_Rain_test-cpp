@@ -7,7 +7,7 @@ title: Algorithm
 
   In my code i use a plethera of Alogorithms most notably in the shapes, to generate these shapes we need to use formulae.
 
-  ## Number Generation Algorithm
+ ## Number Generation Algorithm
 
   ![image](https://github.com/user-attachments/assets/26f3b05f-5a65-4806-9263-47c2b12a788f)
 
