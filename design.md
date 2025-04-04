@@ -32,7 +32,6 @@ title: Design
  6.Animation continues until a key is pressed or stop() is called.
  
  ![image](https://github.com/user-attachments/assets/41d584e1-24a5-4e70-82ff-c5f71aa91985)
-
 ## Colour and  Number Generation:
  
 1. My code uses modern C++11 random facilities (std::mt19937, std::uniform_int_distribution) to generate random numbers but i have it to display numebers between 0 and 1
